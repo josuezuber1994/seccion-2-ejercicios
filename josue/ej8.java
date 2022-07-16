@@ -9,6 +9,9 @@ import java.util.Scanner;
 
 public class ej8 {
     public static void main(String[] args) {
+        //Ejercicio 8.
+        //Dado un (1) número, imprimir Positivo o negativo según sea el
+        //numero.
         double numero=0;
         Scanner escaner = new Scanner(System.in);
         System.out.println("Escribe un número:");
