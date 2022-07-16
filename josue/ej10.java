@@ -9,6 +9,8 @@ import java.util.Scanner;
 public class ej10 {
 
     public static void main(String[] args) {
+        //Ejercicio 10.
+        //Dado un (1) número binario de cuatro (4) dígitos imprimir su valor
         long n, ax, di, en;
         int exp;
         boolean binario;
