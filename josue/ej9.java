@@ -9,6 +9,9 @@ import java.util.Scanner;
 public class ej9 {
 
     public static boolean findParity(int numero) {
+        //Ejercicio 9.
+       //Dado un (1) número binario de cuatro (4) dígitos imprimir su bit da paridad. El bit
+       //de paridad es 1 si el número de bits 1 es impar y 0 en caso contrario.
 
         numero = (numero & 0x0000FFFF) ^ (numero >> 16);
         numero = (numero & 0x000000FF) ^ (numero>> 8);
