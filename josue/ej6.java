@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 public class ej6 {
     public static void main(String[] args) {
+        //Ejercicio 6.
+       //Dados dos (2) lados de un triángulo en cm, calcular la hipotenusa del mismo.
         double a=0;
         double b=0;
         double resultado=0;
