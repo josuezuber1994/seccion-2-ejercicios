@@ -6,6 +6,8 @@ package app;
 
 public class ej4 {
      public static void main(String[] args) {
+          //Ejercicio 4.
+         //Dados dos (2) números calcule la suma, resta, multiplicación, división y módulo.
         
         int numero1 = 45,numero2 = 7, suma = 0, resta = 0,
                 multiplicacion = 0, division = 0, residuo = 0;
