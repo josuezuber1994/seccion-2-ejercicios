@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class ej20 {
     public static void main(String[] args) {
+        //Solicitar un número entre el 1 y el 12 e imprimir el mes correspondiente a dicho
+        //número.
         int mes = 0;
         Scanner input = new Scanner(System.in);
         System.out.println("Ingrese un numero : ");
