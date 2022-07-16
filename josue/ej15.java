@@ -8,6 +8,9 @@ import java.util.Scanner;
 
 public class ej15 {
     public static void main(String[] args) {
+        //Ejercicio 15
+        //Dados tres números enteros positivos A, B y C, determine ¿cuál de ellos es el
+        //mayor? y ¿cuál es el segundo mayor?
         Scanner input = new Scanner(System.in);
         int s, m, h;
         System.out.print("Ingrese una cantidad para convertir en segundos : ");
