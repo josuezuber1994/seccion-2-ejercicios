@@ -9,7 +9,9 @@ import java.util.Scanner;
 
 public class ej14 {
         public static void main(String[] args) {
-
+        ////Ejercicio 14 
+        //Cree un algoritmo que tome por entrada las horas y minutos de un día y dé como
+        //resultado su equivalente en segundos.
         int segundo = 0;
         int minuto = 0;
         int hora = 0;
