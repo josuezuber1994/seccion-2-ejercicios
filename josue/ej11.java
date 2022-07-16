@@ -9,6 +9,9 @@ import java.util.Scanner;
 public class ej11 {
 
     public static void main(String[] args) {
+        //Ejercicio 11.
+       //Dado un (1) número de cuatro (4) dígitos imprimirlo por separado en unidades,
+       //decenas, centenas y unidades de mil.
         int n = 0;
         Scanner escaner = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
