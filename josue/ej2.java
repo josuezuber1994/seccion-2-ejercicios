@@ -7,6 +7,10 @@ package app;
 public class ej2 {
     
         public static void main(String[] args) {
+        ////Ejercicio 2.
+        //¿Siguiendo la prioridad de operadores, convierta a expresión matemática, 
+        //resuelva e indique en cuál tipo de variable almacenará el resultado de las
+        //siguientes expresiones:
         boolean ingreso1 = (5+3*2)+9>3*5*14%3;
         double ingreso2 = 2*(4-10+8)/2*36*(1/2);
         double ingreso3 = 260 / 12 + 54 % 3 - 85 % 7;
