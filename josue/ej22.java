@@ -11,6 +11,9 @@ import java.util.Scanner;
 public class ej22 {
  public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
+        // //Ejercicio 22 
+        //Dado un número entero N, calcular e informar al usuario cuántos dígitos tiene
+        //dicho número.
         int n, c;
         char car;
         do {
