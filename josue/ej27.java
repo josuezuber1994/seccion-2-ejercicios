@@ -10,6 +10,9 @@ import java.util.Scanner;
 public class ej27 {
   public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        //Dada una secuencia de números terminada en cero (0), elaborar un algoritmo que
+        //informe al usuario qué valor tiene el número mayor y qué valor tiene el número
+        //menor, sin contar el cero (0).
         String n="105";
         String n2="4253252";
         String nc="";
