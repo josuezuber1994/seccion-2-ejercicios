@@ -8,6 +8,9 @@ import java.util.Scanner;
 
 public class ej23 {
      public static void main(String[] args) {
+          //Ejercicio 23
+         //Dado un número, determine si es capicúa.
+        //Nota: un número capicúa es aquel que se lee igual hacia adelante que hacia atrás 
         int numero,ax, digito, iv;
         Scanner input=new Scanner (System.in);
         System.out.println("Ingrese un numero: ");
