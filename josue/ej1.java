@@ -7,6 +7,8 @@ package app;
 
 public class ej1 {
      public static void main(String[] args) {
+          //Ejercicio 1.
+       // ¿De cuál tipo de dato sería la variable donde almacena lo siguiente?
        String ingreso = "Hola Mundo";
         Boolean valor = true;
         char entero = '1';
