@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 public class ej7 {
     public static void main(String[] args) {
+        //Ejercicio 7.
+        //Dado un (1) número, imprimir 0 si es par y 1 si es impar
         int numero;
         Scanner teclado = new Scanner(System.in);
 
