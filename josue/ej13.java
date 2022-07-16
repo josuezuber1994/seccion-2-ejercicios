@@ -9,6 +9,10 @@ import java.util.Scanner;
 public class ej13 {
 
     public static void main(String[] args) {
+        //Ejercicio 12.
+        //Dado un número entero cuya cantidad de dígitos es igual a 5, determine si es
+        //capicúa.
+        //Nota: un número capicúa es aquel que se lee igual hacia adelante que hacia atrás
         int numero, auxiliar, inverso = 0, cifra;
         Scanner input = new Scanner(System.in);
         do {
