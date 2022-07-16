@@ -9,7 +9,10 @@ import java.util.Scanner;
 
 public class ej25 {
 
+    
     public static void main(String[] args) {
+         //Construya un programa que dado un valor entero N, haga el cálculo de la función
+         //factorial utilizando estructuras iterativas.
         Scanner entrada = new Scanner(System.in);
         System.out.print("Indica el numero a calcular su factorial: ");
         int vc = 0;
