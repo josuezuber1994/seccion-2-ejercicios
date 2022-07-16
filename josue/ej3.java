@@ -9,7 +9,9 @@ import java.util.Scanner;
 
 public class ej3 {
      public static void main(String[] args) {
-         Scanner input = new Scanner (System.in);    
+         Scanner input = new Scanner (System.in);  
+          //ejercicio
+          //Escribir las siguientes expresiones matemáticas a pseudo-codigo.
          int resultado1 = 0;
         int resultado2 = 0;
         int a = 785;
