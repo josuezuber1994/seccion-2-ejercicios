@@ -11,10 +11,12 @@ public class ej5 {
     
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
-        double resultado = 0.0;
+        //Ejercicio 5.
+        //Dados tres (3) números, Hacer una aplicación que calcule la resolvente.
         double a = 0.0;
         double b = 0.0;
         double c = 0.0;
+        double resultado = 0.0;
         
         System.out.println("Ingresa la variable de A:");
         a= input.nextDouble();
