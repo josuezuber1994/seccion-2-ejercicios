@@ -8,8 +8,13 @@ import java.util.Scanner;
 
 public class ej21 {
     public static void main(String[] args) {
-
+        
         Scanner input = new Scanner(System.in);
+        //Ejercicio 20 
+        //En un almacén se hace un 20% de descuento a los clientes cuya compra supere
+        //los Bs 1000, se desea que realice un algoritmo el cual tome por entrada el monto a
+        //pagar por el cliente y arroje como salida el monto aplicando el descuento de ser
+        //necesario
         double mc, dc = 0.020, tp;
         System.out.print("Ingrese el monto de su compra : ");
         mc = input.nextDouble();
